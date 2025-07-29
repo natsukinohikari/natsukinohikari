@@ -4,7 +4,7 @@ Soy Francisco Negreira, desarrollador web titulado en 2022.
 
 ## LENGUAJES
 
-PHP - JAVASCRIPT - HTML - CSS - LARAVEL
+PHP - JAVASCRIPT - HTML - CSS  
 Además, actualmente estoy aprendiendo a manejar el framework de PHP, Laravel.
 
 <!--
