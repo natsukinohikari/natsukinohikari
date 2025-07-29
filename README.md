@@ -1,4 +1,11 @@
-## Hi there 👋
+# BIENVENIDOS A MI PERFIL
+
+Soy Francisco Negreira, desarrollador web titulado en 2022.
+
+## LENGUAJES
+
+PHP - JAVASCRIPT - HTML - CSS - LARAVEL
+Además, actualmente estoy aprendiendo a manejar el framework de PHP, Laravel.
 
 <!--
 **natsukinohikari/natsukinohikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
